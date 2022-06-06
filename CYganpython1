@@ -1,0 +1,9 @@
+print ('podaj x ')
+x = float (input())
+print ('podaj y ')
+y = float(input()) 
+y
+print ('suma x i y wynosi', x + y)
+print ('różnica x i y wynosi', x - y)
+print ('iloczyn x i y wynosi', x * y)
+print ('iloraz x i y wynosi', x / y)
